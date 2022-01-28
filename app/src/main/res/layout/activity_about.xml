@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/colorPrimary">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <ImageView android:id="@+id/splashscreen"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/logoforandroidapk"
+            android:layout_gravity="center"/>
+
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Teacher Assistant"
+            android:textColor="#FFFFFF"
+            android:textSize="30dp"></TextView>
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Version 1.0"
+            android:textColor="#FFFFFF"
+            android:textSize="12dp"></TextView>
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Developed By"
+            android:textColor="#FFFFFF"
+            android:textSize="15dp"></TextView>
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Team CodeRise"
+            android:textColor="#FFFFFF"
+            android:textSize="20dp"></TextView>
+
+    </LinearLayout>
+
+</LinearLayout>

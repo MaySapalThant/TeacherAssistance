@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#203882</color>
+    <color name="colorPrimaryDark">#203882</color>
+    <color name="colorAccent">#f44336</color>
+    <color name="window_background">#FFF5F5F5</color>
+    <color name="navigation_item">#4caf50</color>
+    <color name="album_title">#4c4c4c</color>
+    <color name="text_color">#203882</color>
+</resources>

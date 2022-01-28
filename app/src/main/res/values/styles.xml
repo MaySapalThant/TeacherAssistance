@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.DesignDemo">
+
+    </style>
+
+    <style name="Base.Theme.DesignDemo" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">#203882</item>
+        <item name="colorPrimaryDark">#203882</item>
+        <item name="colorAccent">#f44336</item>
+        <item name="android:fontFamily">@font/slabo</item>
+        <item name="android:windowBackground">@color/window_background</item>
+    </style>
+
+
+
+    <!--Adding For Group Generator-->
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+</resources>

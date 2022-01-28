@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Teacher Assistance</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_group">Group Generator</string>
+
+    <string name="cd_navdrawer_image">Navigation Drawer Image</string>
+    <string name="cd_navdrawer_user_picture">User Profile Image</string>
+
+    <string name="drawer_open">Open Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
+
+    <string name="nav_sub_feedback_header">Feedback</string>
+    <string name="nav_sub_feedback_help">Help &amp; feedback</string>
+    <string name="nav_sub_feedback_about">About</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="defString"></string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
